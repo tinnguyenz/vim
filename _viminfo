@@ -22,13 +22,46 @@
 # Registers:
 
 # File marks:
-'0  34  0  ~\_vimrc
-'1  24  0  ~\_vimrc~
-'2  1  0  ~\_vimrc~
-'3  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
-'4  33  17  ~\_vimrc
+'0  1  391  D:\cygwin\home\Tin\.ssh\id_rsa.pub
+'1  34  0  ~\_vimrc
+'2  24  0  ~\_vimrc~
+'3  1  0  ~\_vimrc~
+'4  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+'5  33  17  ~\_vimrc
 
 # Jumplist (newest first):
+-'  1  391  D:\cygwin\home\Tin\.ssh\id_rsa.pub
+-'  34  0  ~\_vimrc
+-'  33  17  ~\_vimrc
+-'  24  0  ~\_vimrc~
+-'  1  0  ~\_vimrc~
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  ~\_vimrc
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  24  0  ~\_vimrc~
+-'  1  0  ~\_vimrc~
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  4  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  15  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
 -'  34  0  ~\_vimrc
 -'  33  17  ~\_vimrc
 -'  24  0  ~\_vimrc~
@@ -62,6 +95,9 @@
 -'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.3\NERD_tree_1
 
 # History of marks within files (newest to oldest):
+
+> D:\cygwin\home\Tin\.ssh\id_rsa.pub
+	"	1	391
 
 > ~\_vimrc
 	"	34	0
